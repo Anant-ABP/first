@@ -11,7 +11,6 @@ namespace first
     {
         static void Main(string[] args)
         {
-            print name
             Console.WriteLine("hello, enter your name: ");
             string name = Console.ReadLine();
             Console.WriteLine(name);
@@ -45,7 +44,6 @@ namespace first
             int aab = a & b;
             Console.WriteLine(aab);
 
-            loops
             int c = 10;
             while (c > 0)
             {
